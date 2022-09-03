@@ -1,0 +1,48 @@
+.rating {
+    margin-top: 23px;
+    font-family: "Courier New", Courier, monospace;
+  }
+  .feedback {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    /* height: 233vh; */
+  }
+  body {
+    background-color: black;
+    color: white;
+  }
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 23px;
+}
+img{
+    width: 30%;
+    height: auto;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.part{
+    width: 230vh;
+    margin-top: 23px;
+    /* background-color: white; */
+}
+.inp{
+  text-align: center;
+  width: 30%;
+  margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+#contact{
+  margin-top: 25px;
+}
+#submit{
+  margin-top: 12px;
+}
+.col-sm-2 {
+    position: relative;
+    flex: 0 0 auto;
+    /* width: 54.666667%; */
+    left: 64vh;
+}
